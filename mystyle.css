@@ -1,0 +1,16 @@
+body{
+    background: fixed;
+    background-attachment: fixed;
+    background-image: none;
+    background-image: url(/background.jpg);
+}
+h1{
+    color: rgb(81, 128, 85);
+
+}
+h2{
+    color: rgb(82, 82, 167);
+}
+p{
+    color: rgb(146, 185, 197);
+}
